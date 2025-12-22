@@ -26,9 +26,8 @@ Below are two examples of model-generated compositions initialized with hybrid s
 
 | Seed / Temperature | Audio | Description |
 | :--- | :---: | :--- |
-| **Seed 2 (Temp 0.75)** | [▶️ **Play Audio**](https://github.com/jdavibedoya/ff-music-lstm/blob/main/audio/Session_Seed2_Temp0.75.mp3) | More conservative and melodic generation. |
-| **Seed 1 (Temp 1.25)** | [▶️ **Play Audio**](https://github.com/jdavibedoya/ff-music-lstm/blob/main/audio/Session_Seed1_Temp1.25.mp3) | Higher creative risk and rhythmic variation. |
-
+| **Seed 2 (Temp 0.75)** | [▶️ **Play Audio**](https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/audio/Session_Seed2_Temp0.75.mp3) | More conservative and melodic generation. |
+| **Seed 1 (Temp 1.25)** | [▶️ **Play Audio**](https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/audio/Session_Seed1_Temp1.25.mp3) | Higher creative risk and rhythmic variation. |
 ---
 
 ## 🛠️ Technical Details
