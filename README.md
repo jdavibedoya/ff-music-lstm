@@ -49,7 +49,7 @@ Below are two examples of model-generated compositions initialized with hybrid s
 * **Generation:** Implemented a **hybrid seed search** heuristic to initialize generation with coherent musical contexts.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/images/train_model.png" width="400" style="border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/images/model_train.png" width="400" style="border-radius: 10px;">
   <br>
   <em>Model Architecture (Training)</em>
 </p>
