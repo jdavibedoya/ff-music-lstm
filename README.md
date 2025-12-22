@@ -24,10 +24,13 @@ Below are two examples of model-generated compositions initialized with hybrid s
 
 > **Production Note:** The generated MIDI was rendered in a DAW (**Ableton Live**) with *Sound Magic Piano One* and *Valhalla Vintage Verb* to achieve a professional aesthetic.
 
+[▶️ **Listen on Project Website**](https://jdavibedoya.github.io/projects/ff-music-lstm/) or download here:
+
 | Seed / Temperature | Audio | Description |
 | :--- | :---: | :--- |
-| **Seed 2 (Temp 0.75)** | [▶️ **Play Audio**](https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/audio/Session_Seed2_Temp0.75.mp3) | More conservative and melodic generation. |
-| **Seed 1 (Temp 1.25)** | [▶️ **Play Audio**](https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/audio/Session_Seed1_Temp1.25.mp3) | Higher creative risk and rhythmic variation. |
+| **Seed 2 (Temp 0.75)** | [⬇️ **Download MP3**](https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/audio/Session_Seed2_Temp0.75.mp3) | More conservative and melodic generation. |
+| **Seed 1 (Temp 1.25)** | [⬇️ **Download MP3**](https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/audio/Session_Seed1_Temp1.25.mp3) | Higher creative risk and rhythmic variation. |
+
 ---
 
 ## 🛠️ Technical Details
@@ -44,6 +47,12 @@ Below are two examples of model-generated compositions initialized with hybrid s
 * **Network:** LSTM (Long Short-Term Memory) optimized for temporal sequences.
 * **Custom Module:** Developed the `music_data_utils.py` library to abstract the complexity of MIDI processing, tokenization, and decoding.
 * **Generation:** Implemented a **hybrid seed search** heuristic to initialize generation with coherent musical contexts.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/images/train_model.png" width="400" style="border-radius: 10px;">
+  <br>
+  <em>Model Architecture (Training)</em>
+</p>
 
 ### Tech Stack
 * **Core:** `Python`, `NumPy`, `Collections`
