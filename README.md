@@ -19,9 +19,7 @@ Although the project architecture is flexible and allows training models with an
 
 ---
 
-## 🎹 Demo
-
-### 🎧 Listen to Generated Samples
+## 🎧 Listen to Generated Samples
 Below are two examples of compositions extended by the model from hybrid seeds, using different temperatures (creativity levels).
 
 > **Production Note:** The network-generated MIDI was rendered externally in a DAW (**Ableton Live**) using *Sound Magic Piano One* for timbre and *Valhalla Vintage Verb* for spatiality, aiming for a professional aesthetic.
